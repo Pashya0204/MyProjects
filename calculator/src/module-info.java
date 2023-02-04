@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author PASHYA
+ *
+ */
+module calculator {
+}
